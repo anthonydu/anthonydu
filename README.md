@@ -1,5 +1,7 @@
 # Hi there, I'm Anthony Du 👋
-### www.anthonydu.com
+
+[<img src="./assets/anthonydu.com.png" height="20"/>](https://www.anthonydu.com)
+[<img src="./assets/linkedin.png" height="20"/>](https://www.linkedin.com/in/antdu/)
 
 <!--
 **anthonydu/anthonydu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
