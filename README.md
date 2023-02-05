@@ -1,9 +1,9 @@
 # Hi there, I'm Anthony Du 👋
 
-[<img src="./assets/anthonydu.com.png" height="30"/>](https://www.anthonydu.com)
+[<img src="./assets/anthonydu.com_2x.jpg" height="30"/>](https://www.anthonydu.com)
 [<img src="./assets/linkedin.png" height="30"/>](https://www.linkedin.com/in/antdu/)
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,nextjs,ts,react,sass,cloudflare,bootstrap,jquery&theme=dark)](https://github.com/anthonydu)
+[![Skill Icons](https://skillicons.dev/icons?i=java,py,nextjs,ts,react,sass,cloudflare,bootstrap,jquery&theme=dark)](https://github.com/anthonydu)
 
 <!--
 **anthonydu/anthonydu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
