@@ -1,5 +1,6 @@
 # Hi there, I'm Anthony Du 👋
 
+[<img src="./assets/Place_2017.svg.png" height="30" />](https://place.anthonydu.com)
 [<img src="./assets/anthonydu.com_2x.jpg" height="30" />](https://www.anthonydu.com)
 [<img src="./assets/linkedin.png" height="30" />](https://www.linkedin.com/in/antdu/)
 
