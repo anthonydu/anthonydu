@@ -3,8 +3,14 @@
 [<img src="./assets/Place_2017.svg.png" height="30" />](https://place.anthonydu.com)
 [<img src="./assets/anthonydu.com_2x.jpg" height="30" />](https://www.anthonydu.com)
 [<img src="./assets/linkedin.png" height="30" />](https://www.linkedin.com/in/antdu/)
+&ThinSpace;
+[<img src="./assets/yt-chrome.png" height="30" />](https://chromewebstore.google.com/)
+&ThinSpace;
+[<img src="./assets/ig-chrome.png" height="30" />](https://chromewebstore.google.com/)
 
 <picture><img src="https://skillicons.dev/icons?i=java,py,ts,cpp,nextjs,tailwind,supabase,cloudflare&theme=dark" /></picture>
+
+
 
 <!--
 **anthonydu/anthonydu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
