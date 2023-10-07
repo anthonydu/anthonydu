@@ -8,9 +8,9 @@
 &ThinSpace;
 [<img src="./assets/ig-chrome.png" height="30" />](https://chromewebstore.google.com/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonydu&layout=compact)
+<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonydu&layout=compact" alt="Top Language Stats" /></picture>
 
-<picture><img src="https://skillicons.dev/icons?i=java,py,ts,cpp,nextjs,tailwind,supabase,cloudflare&theme=dark" /></picture>
+<picture><img src="https://skillicons.dev/icons?i=java,py,ts,cpp,nextjs,tailwind,supabase,cloudflare&theme=dark" alt="Skill Icons" /></picture>
 
 
 
