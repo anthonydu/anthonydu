@@ -4,9 +4,9 @@
 [<img src="./assets/anthonydu.com_2x.jpg" height="30" />](https://www.anthonydu.com)
 [<img src="./assets/linkedin.png" height="30" />](https://www.linkedin.com/in/antdu/)
 &ThinSpace;
-[<img src="./assets/yt-chrome.png" height="30" />](https://chromewebstore.google.com/)
+[<img src="./assets/yt-chrome.png" height="30" />](https://chromewebstore.google.com/detail/amazing-youtube-for-chrom/einajlahdjfnkjmhpojahhanmpefcohf)
 &ThinSpace;
-[<img src="./assets/ig-chrome.png" height="30" />](https://chromewebstore.google.com/)
+[<img src="./assets/ig-chrome.png" height="30" />](https://chromewebstore.google.com/detail/anti-instagram-suggestion/pjmfmehedckodidklpgjpiajbgdilebh)
 
 <picture><img height="200" src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,html,css,react,nextjs,sass,tailwind,bash,postgresql,supabase,cloudflare&theme=dark&perline=4" alt="Skill Icons" /></picture>
 &ThinSpace;
