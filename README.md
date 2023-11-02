@@ -10,7 +10,7 @@
 
 <picture><img height="200" src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,html,css,react,nextjs,sass,tailwind,bash,postgresql,supabase,cloudflare&theme=dark&perline=4" alt="Skill Icons" /></picture>
 &ThinSpace;
-<picture><img height="200" src="https://github-readme-stats-anthonydu.vercel.app/api/top-langs/?username=anthonydu&layout=compact&langs_count=8&size_weight=0.4&count_weight=0.6&exclude_repo=CPSC221PA2,CPSC221PA1&hide=racket,scss" alt="Top Language Stats" /></picture>
+<picture><img height="200" src="https://github-readme-stats-anthonydu.vercel.app/api/top-langs/?username=anthonydu&layout=compact&langs_count=8&size_weight=0.4&count_weight=0.6&exclude_repo=CPSC221L,CPSC221EX,SimpleMachineStudentSrc213&hide=racket,scss" alt="Top Language Stats" /></picture>
 
 
 
