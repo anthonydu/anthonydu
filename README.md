@@ -12,7 +12,7 @@
 &ThinSpace;
 [<img src="./assets/ig-chrome.png" height="30" alt="Antstagram - Suggestions Remover" />](https://chromewebstore.google.com/detail/pjmfmehedckodidklpgjpiajbgdilebh)
 
-Ongoing Project: [Rate My Rentals (ratemyrentsals.org)](https://www.ratemyrentals.org)
+Ongoing Project: [Rate My Rentals (ratemyrentsals.org)](https://www.ratemyrentals.org) w/ Svelte
 
 <picture><img height="200" src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,html,css,react,nextjs,svelte,tailwind,bash,postgresql,supabase,cloudflare&theme=dark&perline=4" alt="Skill Icons" /></picture>
 &ThinSpace;
