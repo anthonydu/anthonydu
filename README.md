@@ -2,8 +2,6 @@
 
 [<img src="./assets/Place_2017.svg.png" height="30" />](https://place.anthonydu.com)
 &ThinSpace;
-[<img src="./assets/AppleMusicRPC.png" height="30" />](https://github.com/anthonydu/Apple-Music-Rich-Presence)
-&ThinSpace;
 [<img src="./assets/anthonydu.com_2x.jpg" height="30" />](https://www.anthonydu.com)
 &ThinSpace;
 [<img src="./assets/linkedin.png" height="30" />](https://www.linkedin.com/in/antdu/)
