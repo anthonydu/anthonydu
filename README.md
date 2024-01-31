@@ -6,11 +6,11 @@
 &ThinSpace;
 [<img src="./assets/linkedin.png" height="30" title="Linkedin Profile" />](https://www.linkedin.com/in/antdu/)
 &ThinSpace;
+[<img src="./assets/Prairie_Track.png" height="30" title="PrairieTrack - PrairieLearn Tracker" />](https://chromewebstore.google.com/detail/mpiafncjjoappblggdabinolanimedai)
+&ThinSpace;
 [<img src="./assets/yt-chrome.png" height="30" title="Amazing YouTube for Chrome" />](https://chromewebstore.google.com/detail/einajlahdjfnkjmhpojahhanmpefcohf)
 &ThinSpace;
 [<img src="./assets/ig-chrome.png" height="30" title="Antstagram - Suggestions Remover" />](https://chromewebstore.google.com/detail/pjmfmehedckodidklpgjpiajbgdilebh)
-&ThinSpace;
-[<img src="./assets/Prairie_Track.png" height="30" title="PrairieTrack - PrairieLearn Tracker" />](https://chromewebstore.google.com/detail/mpiafncjjoappblggdabinolanimedai)
 
 My latest SvelteKit app [Rate My Rentals (ratemyrentsals.org)](https://www.ratemyrentals.org) is out!
 
