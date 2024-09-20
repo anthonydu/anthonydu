@@ -16,7 +16,7 @@ My latest SvelteKit app [Rate My Rentals (ratemyrentsals.org)](https://www.ratem
 
 <picture><img height="200" src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,html,css,react,nextjs,svelte,tailwind,bash,postgresql,supabase,cloudflare&theme=dark&perline=4" alt="Skill Icons" /></picture>
 &ThinSpace;
-<picture><img height="200" src="https://github-readme-stats-anthonydu.vercel.app/api/top-langs/?username=anthonydu&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&exclude_repo=CPSC221L,CPSC317PA&hide=html,css,scss,racket" alt="Top Language Stats" /></picture>
+<picture><img height="200" src="https://github-readme-stats-anthonydu.vercel.app/api/top-langs/?username=anthonydu&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=CPSC221L,CPSC317PA,tiance-api&hide=html,css,scss,racket" alt="Top Language Stats" /></picture>
 
 <!--
 **anthonydu/anthonydu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
