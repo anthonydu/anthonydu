@@ -12,7 +12,7 @@
 &ThinSpace;
 [<img src="./assets/ig-chrome.png" height="30" title="Antstagram - Suggestions Remover" />](https://chromewebstore.google.com/detail/pjmfmehedckodidklpgjpiajbgdilebh)
 
-My latest SvelteKit app [Rate My Rentals (ratemyrentsals.org)](https://www.ratemyrentals.org) is out! \(server currently down...\)
+[MadeByANJI.com](https://www/madebyanji.com)
 
 <picture><img height="200" src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,react,svelte,flask,tailwind,git,docker,bash,postgresql,supabase,cloudflare&theme=dark&perline=4" alt="Skill Icons" /></picture>
 &ThinSpace;
